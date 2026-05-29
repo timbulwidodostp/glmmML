@@ -1,6 +1,8 @@
 # glmmML
 Generalized Linear Models with random intercept Use glmmML With (In) R Software
 
+https://www.youtube.com/watch?v=XaZZhmSQKjo
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
